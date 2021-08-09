@@ -1,0 +1,2 @@
+# projekcik
+A JavaScript project
